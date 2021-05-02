@@ -9,5 +9,5 @@
 
 
 ```
-python3.7 app.py
+ptyhon3.7 application.py
 ```
